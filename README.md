@@ -10,7 +10,7 @@
 #
 
 # Prerequisites:
-* Espress.ks
+* Espress.js
 * Mongoose
 * MongoDB
 #
